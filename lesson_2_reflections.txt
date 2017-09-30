@@ -13,3 +13,7 @@ By adding files in the staging area after a single logical change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 To keep more than one logical change in parallel. One branch i.e. to try out an experimental feature, another branch for another experimental feature and another branch for active beta development.
+
+How do the diagrams help you visualize the branch structure?
+
+by being visual?
