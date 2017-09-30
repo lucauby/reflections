@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git structure created but no commits yet
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+You can select which files to put in the staging area, not necessarily all that resides in the working directory. From the staging area it can be added to the repository. Selecting which files to put allows for a finer granularity in what gets committed.
